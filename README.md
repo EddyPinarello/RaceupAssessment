@@ -1,6 +1,29 @@
 # Maze Solver (BFS)
 
 This project shows how to solve a maze using the Breadth-First Search (BFS) algorithm. The maze is a matrix, and the goal is to find a path from the start to the end point, avoiding obstacles.
+## Running the Program
+
+### Prerequisites
+
+Ensure that you have **Python 3.x** installed on your system. You can check if Python is installed by running:
+
+```bash
+python --version
+```
+
+## 1. Download or Clone the Repository
+Clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/your-repository/maze-solver-bfs.git
+cd maze-solver-bfs
+```
+## 2. Run the Program
+In the terminal, navigate to the project folder and execute the following command:
+
+```bash
+python maze_solver.py maze.txt
+```
 
 ## Approach
 
