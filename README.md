@@ -34,7 +34,7 @@ BFS is an ideal algorithm for solving maze problems, especially when looking for
 - **Systematic exploration**: It checks all neighboring cells before moving further into the maze, making it thorough and reliable.
 - **Termination**: BFS will either find the shortest path or confirm that no solution exists.
 
-### How BFS Works
+### How BFS Works:
 
 BFS uses a **queue** to manage the points to explore next. The process follows these steps:
 
