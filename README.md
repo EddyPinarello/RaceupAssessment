@@ -20,7 +20,7 @@ BFS uses a **queue** to manage the points to explore next. The process follows t
 2. **Explore neighbors**: Check neighboring cells (up, down, left, right), adding valid ones to the queue.
 3. **Track the path**: Keep track of the direction taken to reach each new cell.
 4. **Continue until solved**: Repeat until the end point is reached, or the queue is empty (no path exists).
-
+![breadth_first_search_2](https://github.com/user-attachments/assets/8a1f1c18-a131-4638-8a63-c723c584012c)
 
 ### Why Use a Queue?
 
