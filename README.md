@@ -11,18 +11,17 @@ Ensure that you have **Python 3.x** installed on your system. You can check if P
 python --version
 ```
 
-## 1. Download or Clone the Repository
+### 1. Download or Clone the Repository
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-repository/maze-solver-bfs.git
-cd maze-solver-bfs
+git clone https://github.com/EddyPinarello/RaceupAssessment.git
+cd RaceupAssessment
 ```
-## 2. Run the Program
+### 2. Run the Program
 In the terminal, navigate to the project folder and execute the following command:
-
 ```bash
-python maze_solver.py maze.txt
+python main.py
 ```
 
 ## Approach
